@@ -7,5 +7,6 @@ public class Masina {
 	
 	//ovo ne valja nista
 	
+	//zasto mi to radis
 	
 }
