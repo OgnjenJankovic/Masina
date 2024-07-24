@@ -5,5 +5,7 @@ public class Masina {
 	int broj;
 	int trimer;
 	
+	//ovo ne valja nista
+	
 	
 }
