@@ -9,4 +9,6 @@ public class Masina {
 	
 	//zasto mi to radis
 	
+	
+	// nemoj da sacuvas na sve
 }
